@@ -4,4 +4,10 @@ The original goal of this simple 68000 tester is a simple, inexpensive board to 
 * Google forum, https://groups.google.com/g/retro-comp/c/AY7YPEINyhw
 * VCFED forum, https://forum.vcfed.org/index.php?threads/a-simple-68000-tester.1256068/
 ![Simple 68000 Tester](https://github.com/user-attachments/assets/2b4201b0-60ff-4e35-8b47-57ff7b9840b6)
-  
+Simple 68000 Tester in its simplest form with 2x128K RAM and a 64-macrocell CPLD
+
+![68000 Tester with CF interface](https://github.com/user-attachments/assets/4e3732a7-7c46-4507-9ba6-7e67cfbfc795)
+Simple 68000 Tester with CF interface.  The board can bootstrap from CF disk.
+
+![68000 tester with CF and MC68681 DUART](https://github.com/user-attachments/assets/384b0a12-032f-47df-bded-772c98ff558d)
+68000 Tester with the optional MC68681 DUART installed.
