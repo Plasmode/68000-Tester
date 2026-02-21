@@ -3,6 +3,7 @@ Simple tester to check out 68000 in DIP64 package.  May be reconfigured to more 
 The original goal of this simple 68000 tester is a simple, inexpensive board to test large number of 68000 in DIP64 package.  The tester is so simple, there are rooms available to add additional features for a more general purpose 68000 SBC.  The design is described in details in two on-line forums: 
 * Google forum, https://groups.google.com/g/retro-comp/c/AY7YPEINyhw
 * VCFED forum, https://forum.vcfed.org/index.php?threads/a-simple-68000-tester.1256068/
+
 ![Simple 68000 Tester](https://github.com/user-attachments/assets/2b4201b0-60ff-4e35-8b47-57ff7b9840b6)
 Simple 68000 Tester in its simplest form with 2x128K RAM and a 64-macrocell CPLD
 
