@@ -4,6 +4,9 @@ The original goal of this simple 68000 tester is a simple, inexpensive board to 
 * Google forum, https://groups.google.com/g/retro-comp/c/AY7YPEINyhw
 * VCFED forum, https://forum.vcfed.org/index.php?threads/a-simple-68000-tester.1256068/
 
+![68000 tester pc board](https://github.com/user-attachments/assets/617cb28c-eb64-4827-bf28-13880c9ed9a5)
+68000 tester blank pc board
+
 ![Simple 68000 Tester](https://github.com/user-attachments/assets/2b4201b0-60ff-4e35-8b47-57ff7b9840b6)
 Simple 68000 Tester in its simplest form with 2x128K RAM and a 64-macrocell CPLD
 
