@@ -1,3 +1,4 @@
 This folder contains information for Tester-with-MC68681 configuration
 
-https://github.com/Plasmode/68000-Tester/blob/main/68000%20tester%20with%20CF%20and%20MC68681%20DUART.jpeg?raw=true
+
+![68000 tester with CF and MC68681 DUART](https://github.com/user-attachments/assets/28ca767c-593c-4348-8daa-109eed5526b3)
