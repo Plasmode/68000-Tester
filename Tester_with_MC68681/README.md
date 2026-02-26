@@ -11,3 +11,7 @@ There are several benefits associated with the external MC68681:
 3.  Without the embedded serial function, simpler and cheaper CPLD can be used.  In this case a 32-macrocell CPLD, EPM7032S, is used which is equivalent to ATF1502.
 
 The MC68681 configuration has several design mistakes around the interrupt and DTACK functions so requires some modifications.  They are fairly minor and easily fixed with a new board revision.
+
+68k_tester_CPLD_with_MC68681 is the CPLD design file
+
+Software folder contains software for tester_with_MC68681 configuration
