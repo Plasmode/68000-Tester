@@ -1,0 +1,24 @@
+68KTSTR CF Layout
+======================
+
+---- Bytes ----   --- Sectors ---
+Start   Length    Start   Length    Description
+------- -------   ------- -------   ---------------------------
+0x00000 0x001BE   0       1         MBR Loader
+0x001B8 0x00048                     RomWBW Partition Table
+0x00400 0x03200   2       $18       12K 68Kmonitor
+0X04000 0X04000	  $20	  $20       16K TUTOR
+0X08000 0X04000   $40     $20       16K EhBASIC
+0X15000 0X06000   $60     $30       24K CP/M-68K BDOS/CCP/BIOS
+0X1B000 0X05000   $90     $28       20K BIOS, TSTRBIOS
+0XC0000 0XFFE00   $B8     $1FF      255.5K RAM disk
+
+Notes
+-----
+
+- At startup CPLD ROM is mapped to 68000 address space 0x000000-0x0FFFFF, CPU begins execution at 0x0000
+- CPLD ROM (CF bootstrap mode) reads CF Boot Loader (512B) from start of CF (MBR) to 0x34 and runs it
+- CF Boot Loader reads 68K Monitor (12KB) from sectors 0x2 to sector 0x18 of CF to 0x400 and runs it
+- Applications such as Tutor, EhBASIC, CP/M will be read in to their designated RAM locations and execute when invoked by command.
+
+
