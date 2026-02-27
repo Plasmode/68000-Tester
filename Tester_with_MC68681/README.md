@@ -12,6 +12,6 @@ There are several benefits associated with the external MC68681:
 
 The MC68681 configuration has several design mistakes around the interrupt and DTACK functions so requires some modifications.  They are fairly minor and easily fixed with a new board revision.
 
-68k_tester_CPLD_with_MC68681 is the CPLD design file
+68k_tester_CPLD_with_MC68681 is the CPLD design file for Tester-with-MC68681 configuration.
 
 Software folder contains software for tester_with_MC68681 configuration
