@@ -30,6 +30,7 @@ Software folder contains software for tester_with_MC68681 configuration
 - [Schematic]([68KTSTR_scm.pdf](68KTSTR_with68681_scm.pdf))
 - [Gerber photoplots](68KTSTR_R0_Gerber.zip)
 - Bill of materials
-- EPM7064S CPLD design files
+- EPM7064S [CPLD design files](68K_tester_CPLD_With68681.zip)
+ - [PDF schematic](Schematic%20of%20CPLD_for_Tester_with_mc68681.pdf) of CPLD design with 68681
 
 ### Software
