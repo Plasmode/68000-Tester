@@ -15,3 +15,21 @@ The MC68681 configuration has several design mistakes around the interrupt and D
 68k_tester_CPLD_with_MC68681 is the CPLD design file for Tester-with-MC68681 configuration.
 
 Software folder contains software for tester_with_MC68681 configuration
+
+### Features
+- Tester for DIP64 68000
+- 256K RAM
+- EPM7064S CPLD
+  - Bootstrap ROM
+  - Serial port
+  - Address decode
+- Bootstrap via serial port
+- Economical 100mm X 100mm 2-layer pc board
+
+### Design files
+- [Schematic]([68KTSTR_scm.pdf](68KTSTR_with68681_scm.pdf))
+- [Gerber photoplots](68KTSTR_R0_Gerber.zip)
+- Bill of materials
+- EPM7064S CPLD design files
+
+### Software
