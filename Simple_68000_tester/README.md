@@ -13,8 +13,8 @@ This folder contains information for simple tester configuration without CF or M
 - Economical 100mm X 100mm 2-layer pc board
 
 ### Design files
-- Schematic
-- Gerber photoplots
+- [Schematic](68KTSTR_scm.pdf)
+- [Gerber photoplots](68KTSTR_R0_Gerber.zip)
 - Bill of materials
 - EPM7064S CPLD design files
 
