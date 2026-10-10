@@ -27,7 +27,7 @@ Software folder contains software for tester_with_MC68681 configuration
 - Economical 100mm X 100mm 2-layer pc board
 
 ### Design files
-- [Schematic]([68KTSTR_scm.pdf](68KTSTR_with68681_scm.pdf))
+- [Schematic](68KTSTR_with68681_scm.pdf)
 - [Gerber photoplots](68KTSTR_R0_Gerber.zip)
 - Bill of materials
 - EPM7064S [CPLD design files](68K_tester_CPLD_With68681.zip)
