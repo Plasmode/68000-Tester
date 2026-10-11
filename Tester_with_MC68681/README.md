@@ -19,7 +19,7 @@ Software folder contains software for tester_with_MC68681 configuration
 ### Features
 - Tester for DIP64 68000
 - 256K RAM
-- EPM7064S CPLD
+- EPM7032S CPLD
   - Bootstrap ROM
   - Serial port
   - Address decode
