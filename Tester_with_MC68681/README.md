@@ -34,7 +34,7 @@ Software folder contains software for tester_with_MC68681 configuration
   - [PDF schematic](Schematic%20of%20CPLD_for_Tester_with_mc68681.pdf) of CPLD design with 68681
 
 ### Software
-- Monitor for 68000-tester with MC68681
+- [Monitor](Software/68KMon_CF_68681_V04a.zip) for 68000-tester with MC68681
 - [EhBasic](Software/Basic68s3.52.S68) ported to 68000-tester with MC68681
 - [TUTOR v1.3](Software/TUTOR_EASy68K.S68) ported to 68000-tester with MC68681
 - [CP/M68K BDOS, CCP, BIOS](Software/cpm68k_for_tester_with_MC68681.zip) for 68000-tester with MC68681
