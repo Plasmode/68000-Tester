@@ -16,7 +16,8 @@ This folder contains information for simple tester configuration without CF or M
 - [Schematic](68KTSTR_scm.pdf)
 - [Gerber photoplots](68KTSTR_R0_Gerber.zip)
 - Bill of materials
-- EPM7064S CPLD design files
+- [EPM7064S CPLD design](68000tester_serial_load.zip) files
+  - CPLD design in [PDF schematic](CPLD_top_serial_boot_scm.pdf)
 
 ### Software
 
