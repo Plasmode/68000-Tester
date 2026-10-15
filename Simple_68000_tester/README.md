@@ -21,5 +21,5 @@ This folder contains information for simple tester configuration without CF or M
 
 ### Software
 [Serial loading process](Software/Serial_Load_process.md)
-- 128K RAM test
+- [128K RAM test](Software/RAMtest128K.zip)
 
