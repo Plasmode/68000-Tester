@@ -19,7 +19,7 @@ The CF interface is 16-bit wide and source terminated with 100 ohm resistors on 
 - [Schematic](68KTSTR_scm.pdf)
 - [Gerber photoplots](68KTSTR_R0_Gerber.zip)
 - Bill of materials
-- EPM7064S CPLD design files
+- [EPM7064S CPLD design](68000TSTR_CF_boot_working.zip) files
   - [PDF schematic](Schematic_of_CPLD_for_Tester_with_CF_no_MC68681.pdf) of CPLD design without MC68681
 
 ### Software
