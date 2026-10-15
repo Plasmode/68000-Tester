@@ -25,3 +25,6 @@ The CF interface is 16-bit wide and source terminated with 100 ohm resistors on 
 ### Software
 [CF booting process](Software/CF_booting_process.md)
 - [CF disk layout](Software/CF_disk_layout.md)
+- Source files used to [create CF disk image](Software/68KTSTR_no_68681_CF_image_sources.zip)
+- [TUTOR](Software/68KTSTR_no_68681_TUTOR_EASy68K.zip) for 68KTSTR_no_68681 configuration
+- [Monitor](Software/68KTSTR_no_68681_68kmon.zip) for 68KTSTR_no_68681 configuration
