@@ -24,4 +24,4 @@ The CF interface is 16-bit wide and source terminated with 100 ohm resistors on 
 
 ### Software
 [CF booting process](Software/CF_booting_process.md)
-- CF disk layout
+- [CF disk layout](Software/CF_disk_layout.md)
