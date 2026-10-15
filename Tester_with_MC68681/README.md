@@ -40,5 +40,6 @@ Software folder contains software for tester_with_MC68681 configuration
 - [CP/M68K BDOS, CCP, BIOS](Software/cpm68k_for_tester_with_MC68681.zip) for 68000-tester with MC68681
 - CF [disk layout](Software/68KTSTR_CF_layout.txt) of applications
 - CF [disk image](Software/image_MC68681.img)
+- [Source files](Software/68KTSTR_with_68681_sources_for_creating_CF_image.zip) for creating above CF disk image
 
 
