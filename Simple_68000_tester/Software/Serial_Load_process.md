@@ -1,5 +1,6 @@
 # Simple 68000 Tester Serial Load Process
 2/5/26
+
 ROM program inside CPLD, SerLoad (quartwrk81\HomeProjects\68KTSTR\archive\SerialLoad):
 SerLoad is converted to Verilog file, SerLoad.v
 ```
@@ -20,11 +21,11 @@ SerLoad is converted to Verilog file, SerLoad.v
 00000032  4E71                      23           nop
 00000034                            24  RAMhere:                                     ;RAM program starts here   
 ```
-Serload waiting for 256 bytes of data
-loaded starting from RAM addr $34.
-The program is SRload (easy68k\68KTSTR\SerialLoad\SRload.bin
-SRload.s68 is converted to SRload.bin using Easybin.exe 
-SRload.bin is sent to serial port as binary
+- Serload waiting for 256 bytes of data
+- loaded starting from RAM addr $34.
+- The program is SRload (easy68k\68KTSTR\SerialLoad\SRload.bin
+- SRload.s68 is converted to SRload.bin using Easybin.exe 
+- SRload.bin is sent to serial port as binary
 ```
 00000034                            15           org $34
 00000034  4E71                      16           nop
