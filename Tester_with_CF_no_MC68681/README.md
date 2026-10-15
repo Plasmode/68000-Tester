@@ -23,3 +23,5 @@ The CF interface is 16-bit wide and source terminated with 100 ohm resistors on 
   - [PDF schematic](Schematic_of_CPLD_for_Tester_with_CF_no_MC68681.pdf) of CPLD design without MC68681
 
 ### Software
+[CF booting process](Software/CF_booting_process.md)
+- CF disk layout
