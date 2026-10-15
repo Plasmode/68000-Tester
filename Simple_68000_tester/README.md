@@ -20,4 +20,6 @@ This folder contains information for simple tester configuration without CF or M
   - CPLD design in [PDF schematic](CPLD_top_serial_boot_scm.pdf)
 
 ### Software
+[Serial loading process](Software/Serial_Load_process.md)
+- 128K RAM test
 
